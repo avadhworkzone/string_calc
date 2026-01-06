@@ -18,6 +18,9 @@ TDD implementation of String Calculator following RED-GREEN-REFACTOR cycles.
 **RED**: ![Step 1 RED](screenshots/step1_red_empty_string.png)
 **GREEN**: ![Step 1 GREEN](screenshots/step1_green_empty_string.png)
 
+### Step 2: Single Number Returns Itself
+**RED**: ![Step 2 RED](screenshots/step2_red_single_number.png)
+
 ## Run Tests
 ```bash
 dart pub get
