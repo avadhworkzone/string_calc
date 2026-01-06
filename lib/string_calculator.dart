@@ -15,10 +15,21 @@ class StringCalculator {
     
     String normalized = numbersToProcess.replaceAll('\n', delimiter);
     List<String> parts = normalized.split(delimiter);
+    
+    List<int> negatives = [];
     int sum = 0;
     for (String part in parts) {
-      sum += int.parse(part);
+      int num = int.parse(part);
+      if (num < 0) {
+        negatives.add(num);
+      }
+      sum += num;
     }
+    
+    if (negatives.isNotEmpty) {
+      throw Exception('negative numbers not allowed ${negatives.join(',')}');
+    }
+    
     return sum;
   }
 }

@@ -40,6 +40,7 @@ TDD implementation of String Calculator following RED-GREEN-REFACTOR cycles.
 
 ### Step 7: Negative Numbers Throw Exception
 **RED**: ![Step 7 RED](screenshots/step7_red_negative_numbers.png)
+**GREEN**: ![Step 7 GREEN](screenshots/step7_green_negative_numbers.png)
 
 ## Run Tests
 ```bash
