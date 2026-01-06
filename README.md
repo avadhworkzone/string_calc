@@ -42,6 +42,9 @@ TDD implementation of String Calculator following RED-GREEN-REFACTOR cycles.
 **RED**: ![Step 7 RED](screenshots/step7_red_negative_numbers.png)
 **GREEN**: ![Step 7 GREEN](screenshots/step7_green_negative_numbers.png)
 
+### Step 8: Multiple Negative Numbers in Exception
+**GREEN**: ![Step 8 GREEN](screenshots/step8_green_multiple_negatives.png) *(Already works!)*
+
 ## Run Tests
 ```bash
 dart pub get

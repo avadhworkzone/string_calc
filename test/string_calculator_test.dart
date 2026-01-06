@@ -42,4 +42,15 @@ void main() {
       )),
     );
   });
+
+  test('multiple negative numbers in exception', () {
+    final calculator = StringCalculator();
+    expect(
+      () => calculator.add('-1,2,-3'),
+      throwsA(predicate((e) => 
+        e is Exception && 
+        e.toString().contains('negative numbers not allowed -1,-3')
+      )),
+    );
+  });
 }
