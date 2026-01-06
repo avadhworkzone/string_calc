@@ -16,6 +16,7 @@ TDD implementation of String Calculator following RED-GREEN-REFACTOR cycles.
 
 ### Step 1: Empty String Returns 0
 **RED**: ![Step 1 RED](screenshots/step1_red_empty_string.png)
+**GREEN**: ![Step 1 GREEN](screenshots/step1_green_empty_string.png)
 
 ## Run Tests
 ```bash
