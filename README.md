@@ -24,6 +24,7 @@ TDD implementation of String Calculator following RED-GREEN-REFACTOR cycles.
 
 ### Step 3: Two Numbers Return Sum
 **RED**: ![Step 3 RED](screenshots/step3_red_two_numbers.png)
+**GREEN**: ![Step 3 GREEN](screenshots/step3_green_two_numbers.png)
 
 ## Run Tests
 ```bash
