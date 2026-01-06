@@ -20,6 +20,7 @@ TDD implementation of String Calculator following RED-GREEN-REFACTOR cycles.
 
 ### Step 2: Single Number Returns Itself
 **RED**: ![Step 2 RED](screenshots/step2_red_single_number.png)
+**GREEN**: ![Step 2 GREEN](screenshots/step2_green_single_number.png)
 
 ## Run Tests
 ```bash
