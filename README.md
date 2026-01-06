@@ -12,6 +12,11 @@ TDD implementation of String Calculator following RED-GREEN-REFACTOR cycles.
 - Ignore numbers > 1000
 - Support multi-character delimiters
 
+## TDD Process
+
+### Step 1: Empty String Returns 0
+**RED**: ![Step 1 RED](screenshots/step1_red_empty_string.png)
+
 ## Run Tests
 ```bash
 dart pub get
