@@ -26,6 +26,9 @@ TDD implementation of String Calculator following RED-GREEN-REFACTOR cycles.
 **RED**: ![Step 3 RED](screenshots/step3_red_two_numbers.png)
 **GREEN**: ![Step 3 GREEN](screenshots/step3_green_two_numbers.png)
 
+### Step 4: Multiple Numbers Return Sum
+**RED**: ![Step 4 RED](screenshots/step4_red_multiple_numbers.png)
+
 ## Run Tests
 ```bash
 dart pub get
