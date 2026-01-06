@@ -36,6 +36,7 @@ TDD implementation of String Calculator following RED-GREEN-REFACTOR cycles.
 
 ### Step 6: Custom Delimiters Work
 **RED**: ![Step 6 RED](screenshots/step6_red_custom_delimiters.png)
+**GREEN**: ![Step 6 GREEN](screenshots/step6_green_custom_delimiters.png)
 
 ## Run Tests
 ```bash
