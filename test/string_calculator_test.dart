@@ -59,4 +59,9 @@ void main() {
     expect(calculator.add('2,1001'), equals(2));
     expect(calculator.add('1000,1001,2'), equals(1002));
   });
+
+  test('multi-character delimiters work', () {
+    final calculator = StringCalculator();
+    expect(calculator.add('//[***]\n1***2***3'), equals(6));
+  });
 }
