@@ -47,6 +47,7 @@ TDD implementation of String Calculator following RED-GREEN-REFACTOR cycles.
 
 ### Step 9: Numbers Greater Than 1000 Are Ignored
 **RED**: ![Step 9 RED](screenshots/step9_red_ignore_1000.png)
+**GREEN**: ![Step 9 GREEN](screenshots/step9_green_ignore_1000.png)
 
 ## Run Tests
 ```bash
