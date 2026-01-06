@@ -9,8 +9,14 @@ class StringCalculator {
     
     if (numbers.startsWith('//')) {
       int newlineIndex = numbers.indexOf('\n');
-      delimiter = numbers.substring(2, newlineIndex);
+      String delimiterPart = numbers.substring(2, newlineIndex);
       numbersToProcess = numbers.substring(newlineIndex + 1);
+      
+      if (delimiterPart.startsWith('[') && delimiterPart.endsWith(']')) {
+        delimiter = delimiterPart.substring(1, delimiterPart.length - 1);
+      } else {
+        delimiter = delimiterPart;
+      }
     }
     
     String normalized = numbersToProcess.replaceAll('\n', delimiter);

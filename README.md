@@ -51,6 +51,11 @@ TDD implementation of String Calculator following RED-GREEN-REFACTOR cycles.
 
 ### Step 10: Multi-character Delimiters Work
 **RED**: ![Step 10 RED](screenshots/step10_red_multichar_delimiters.png)
+**GREEN**: ![Step 10 GREEN](screenshots/step10_green_multichar_delimiters.png)
+
+## 🎉 Final Results
+**All Tests Passing**: ![Final Tests](screenshots/final_all_tests_pass.png)
+**Complete TDD Journey**: ![Commit History](screenshots/commit_history_tdd.png)
 
 ## Run Tests
 ```bash
