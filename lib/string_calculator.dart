@@ -4,7 +4,8 @@ class StringCalculator {
       return 0;
     }
     
-    List<String> parts = numbers.split(',');
+    String normalized = numbers.replaceAll('\n', ',');
+    List<String> parts = normalized.split(',');
     int sum = 0;
     for (String part in parts) {
       sum += int.parse(part);

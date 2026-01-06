@@ -32,6 +32,7 @@ TDD implementation of String Calculator following RED-GREEN-REFACTOR cycles.
 
 ### Step 5: Newlines Work as Delimiters
 **RED**: ![Step 5 RED](screenshots/step5_red_newlines.png)
+**GREEN**: ![Step 5 GREEN](screenshots/step5_green_newlines.png)
 
 ## Run Tests
 ```bash
