@@ -34,6 +34,9 @@ TDD implementation of String Calculator following RED-GREEN-REFACTOR cycles.
 **RED**: ![Step 5 RED](screenshots/step5_red_newlines.png)
 **GREEN**: ![Step 5 GREEN](screenshots/step5_green_newlines.png)
 
+### Step 6: Custom Delimiters Work
+**RED**: ![Step 6 RED](screenshots/step6_red_custom_delimiters.png)
+
 ## Run Tests
 ```bash
 dart pub get
