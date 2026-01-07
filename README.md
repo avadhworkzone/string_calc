@@ -1,6 +1,7 @@
 # String Calculator TDD Kata
 
-[![Dart](https://img.shields.io/badge/Dart-100%25-blue.svg)](https://dart.dev/)
+[![Dart](https://img.shields.io/badge/Dart-3.10.4-blue.svg)](https://dart.dev/)
+[![Flutter](https://img.shields.io/badge/Flutter-3.38.5-02569B.svg)](https://flutter.dev)
 [![TDD](https://img.shields.io/badge/TDD-RED--GREEN--REFACTOR-green.svg)](https://en.wikipedia.org/wiki/Test-driven_development)
 [![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen.svg)](https://github.com/avadhworkzone/string_calc)
 [![Coverage](https://img.shields.io/badge/Coverage-100%25-brightgreen.svg)](https://github.com/avadhworkzone/string_calc)
@@ -193,7 +194,8 @@ This project includes complete visual documentation of the TDD process:
 
 ## Requirements
 
-- **Dart SDK**: ^2.17.0
+- **Dart SDK**: ^3.10.4
+- **Flutter**: 3.38.5+
 - **Dependencies**: test ^1.21.0
 
 ## Getting Started
