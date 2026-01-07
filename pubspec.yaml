@@ -1,5 +1,5 @@
 name: string_calc
-description: String Calculator TDD Kata
+description: String Calculator TDD Kata - Perfect RED-GREEN cycles with visual documentation of every TDD step
 version: 1.0.0
 
 environment:
@@ -7,3 +7,4 @@ environment:
 
 dev_dependencies:
   test: ^1.21.0
+  flutter_lints: ^2.0.0
