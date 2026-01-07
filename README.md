@@ -225,7 +225,6 @@ dart test
 ## Author
 
 **Avadh Katrodiya**
-- GitHub: [@avadhworkzone](https://github.com/avadhworkzone)
 
 ## License
 
